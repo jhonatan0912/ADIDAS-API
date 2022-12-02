@@ -2,65 +2,65 @@
   {
     "id": 9,
     "img": "img/9.webp",
-    "name": "Al Rihla Pro ball",
-    "description": "Soccer",
-    "price": 165,
-    "status": "best seller"
+    "name": "DONOVAN MITCHELL SHORT SLEEVE HOODIE",
+    "description": "Men's Originals",
+    "price": 163,
+    "status": "3 colors"
   },
   {
     "id": 10,
     "img": "img/10.webp",
-    "name": "Mexico 22 Away Jersey",
-    "description": "Youth Soccer",
-    "price": 70,
-    "status": "best seller"
+    "name": "HEAVYWEIGHT SHMOOFOIL HOODIE",
+    "description": "Men's Originals",
+    "price": 124,
+    "status": "3 colors"
   },
   {
     "id": 11,
     "img": "img/11.webp",
-    "name": "Argentina 22 Home Jersey",
-    "description": "Men`s Soccer",
-    "price": 90,
-    "status": "best seller"
+    "name": "PARLEY RUN FOR THE OCEANS SWEATSHIRT",
+    "description": "Men's Originals",
+    "price": 64,
+    "status": "3 colors"
   },
   {
     "id": 12,
     "img": "img/12.webp",
-    "name": "Mexico 22 Home Jersey",
-    "description": "Men`s Soccer",
-    "price": 90,
-    "status": "best seller"
+    "name": "WORKOUT CORDURA® FULL-ZIP HOODIE",
+    "description": "Men's Originals",
+    "price": 32,
+    "status": "3 colors"
   },
   {
     "id": 13,
     "img": "img/13.webp",
-    "name": "Mexico Away Fan Shirt",
-    "description": "Men`s Soccer",
-    "price": 65,
-    "status": "best seller"
+    "name": "X-CITY FULL-ZIP HOODIE",
+    "description": "Men's Originals",
+    "price": 56,
+    "status": "3 colors"
   },
   {
     "id": 14,
     "img": "img/14.webp",
-    "name": "Germany 22 Home Authentic Jersey",
-    "description": "Men`s Soccer",
-    "price": 150,
-    "status": "best seller"
+    "name": "BEST OF ADIDAS TRAINING HOODIE",
+    "description": "Men's Originals",
+    "price": 76,
+    "status": "3 colors"
   },
   {
     "id": 15,
     "img": "img/15.webp",
-    "name": "Spain 22 Home Jersey",
-    "description": "Women`s Soccer",
-    "price": 80,
-    "status": "best seller"
+    "name": "POLAR FLEECE FULL-ZIP SWEATSHIRT",
+    "description": "Men's Originals",
+    "price": 151,
+    "status": "3 colors"
   },
   {
     "id": 16,
     "img": "img/16.webp",
-    "name": "",
-    "description": "Hombre futbol",
-    "price": 299,
-    "status": ""
+    "name": "X-CITY FULL-ZIP HOODIE",
+    "description": "Men's Originals",
+    "price": 135,
+    "status": "3 colors"
   }
 ]
