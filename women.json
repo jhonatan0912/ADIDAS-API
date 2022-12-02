@@ -4,7 +4,7 @@
     "img": "img/17.webp",
     "name": "ADIDAS SKI CHIC HOODIE",
     "description": "Women's Originals",
-    "price": 165,
+    "price": 173,
     "status": "Originals"
   },
   {
@@ -12,7 +12,7 @@
     "img": "img/18.webp",
     "name": "ALWAYS ORIGINAL LACED TRACK JACKET (PLUS SIZE)",
     "description": "Women's Originals",
-    "price": 70,
+    "price": 161,
     "status": "Originals"
   },
   {
@@ -20,7 +20,7 @@
     "img": "img/19.webp",
     "name": "ESSENTIALS LOGO FULL-ZIP HOODIE",
     "description": "Women's Originals",
-    "price": 90,
+    "price": 120,
     "status": "Originals"
   },
   {
@@ -28,7 +28,7 @@
     "img": "img/20.webp",
     "name": "ADIDAS SKI CHIC ALLOVER PRINT TIGHTS",
     "description": "Women's Originals",
-    "price": 90,
+    "price": 140,
     "status": "Originals"
   },
   {
@@ -36,7 +36,7 @@
     "img": "img/21.webp",
     "name": "PRIMEBLUE SST TRACK JACKET",
     "description": "Women's Originals",
-    "price": 65,
+    "price": 91,
     "status": "Originals"
   },
   {
@@ -44,7 +44,7 @@
     "img": "img/22.webp",
     "name": "ADIDAS TIRO X LEGO® HOME JERSEY",
     "description": "Women's Originals",
-    "price": 150,
+    "price": 95,
     "status": "Originals"
   },
   {
@@ -52,7 +52,7 @@
     "img": "img/23.webp",
     "name": "SLIM ALLOVER PRINT LONG SLEEVE TEE",
     "description": "Women's Originals",
-    "price": 80,
+    "price": 85,
     "status": "Originals"
   },
   {
@@ -60,7 +60,7 @@
     "img": "img/24.webp",
     "name": "ADICOLOR NEUCLASSICS TEE",
     "description": "Women's Originals",
-    "price": 299,
+    "price": 199,
     "status": "Originals"
   }
 ]
