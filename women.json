@@ -2,65 +2,65 @@
   {
     "id": 17,
     "img": "img/17.webp",
-    "name": "Al Rihla Pro ball",
-    "description": "Soccer",
+    "name": "ADIDAS SKI CHIC HOODIE",
+    "description": "Women's Originals",
     "price": 165,
-    "status": "best seller"
+    "status": "Originals"
   },
   {
     "id": 18,
     "img": "img/18.webp",
-    "name": "Mexico 22 Away Jersey",
-    "description": "Youth Soccer",
+    "name": "ALWAYS ORIGINAL LACED TRACK JACKET (PLUS SIZE)",
+    "description": "Women's Originals",
     "price": 70,
-    "status": "best seller"
+    "status": "Originals"
   },
   {
     "id": 19,
     "img": "img/19.webp",
-    "name": "Argentina 22 Home Jersey",
-    "description": "Men`s Soccer",
+    "name": "ESSENTIALS LOGO FULL-ZIP HOODIE",
+    "description": "Women's Originals",
     "price": 90,
-    "status": "best seller"
+    "status": "Originals"
   },
   {
     "id": 20,
     "img": "img/20.webp",
-    "name": "Mexico 22 Home Jersey",
-    "description": "Men`s Soccer",
+    "name": "ADIDAS SKI CHIC ALLOVER PRINT TIGHTS",
+    "description": "Women's Originals",
     "price": 90,
-    "status": "best seller"
+    "status": "Originals"
   },
   {
     "id": 21,
     "img": "img/21.webp",
-    "name": "Mexico Away Fan Shirt",
-    "description": "Men`s Soccer",
+    "name": "PRIMEBLUE SST TRACK JACKET",
+    "description": "Women's Originals",
     "price": 65,
-    "status": "best seller"
+    "status": "Originals"
   },
   {
     "id": 22,
     "img": "img/22.webp",
-    "name": "Germany 22 Home Authentic Jersey",
-    "description": "Men`s Soccer",
+    "name": "ADIDAS TIRO X LEGO® HOME JERSEY",
+    "description": "Women's Originals",
     "price": 150,
-    "status": "best seller"
+    "status": "Originals"
   },
   {
     "id": 23,
     "img": "img/23.webp",
-    "name": "Spain 22 Home Jersey",
-    "description": "Women`s Soccer",
+    "name": "SLIM ALLOVER PRINT LONG SLEEVE TEE",
+    "description": "Women's Originals",
     "price": 80,
-    "status": "best seller"
+    "status": "Originals"
   },
   {
     "id": 24,
     "img": "img/24.webp",
-    "name": "",
-    "description": "Hombre futbol",
+    "name": "ADICOLOR NEUCLASSICS TEE",
+    "description": "Women's Originals",
     "price": 299,
-    "status": ""
+    "status": "Originals"
   }
 ]
